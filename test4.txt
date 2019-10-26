@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I love you!!!
+=======
+second
+>>>>>>> second
