@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-I love you!!!
-=======
-second
->>>>>>> second
+
+
+
+第6个多人协作
