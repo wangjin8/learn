@@ -2,3 +2,8 @@ I love you!!!
 5
 I Miss you !
 2222
+ git add readme.txt
+
+$ git commit -m "AND simple"
+[feature1 14096d0] AND simple
+ 1 file changed, 1 insertion(+), 1 deletion(-)
